@@ -1,4 +1,4 @@
-#Hand Gesture Control of Panda Robot
+# Hand Gesture Control of Panda Robot
 
 This repository presents a ROS2 package that allows a user to move the Franka Emika Panda robotic arm via hand gestures captured via webcam, as well as open and close the gripper. The gripper can be closed by bringing the index and thumb fingers together, and opened by bringing them apart.  
 
